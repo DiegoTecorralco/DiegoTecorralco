@@ -20,7 +20,6 @@ Actualmente desarrollo aplicaciones web completas donde:
 - Realizo pruebas unitarias con Jest.
 - Documento y pruebo APIs con Postman.
 - Implemento filtros dinámicos, tablas interactivas y formularios validados.
-- Desarrollo aplicaciones de escritorio con Electron.
 - Trabajo bajo metodología Scrum.
 
 ---
@@ -63,18 +62,6 @@ Aplicación en React con:
 
 ---
 
-## 🍽️ Sistema de Restaurante con Electron
-
-Aplicación de escritorio desarrollada con Electron y Node.js que permite:
-
-- Registro de pedidos.
-- Acumulación automática de órdenes.
-- Generación de identificadores únicos.
-- Persistencia en base de datos.
-- Interfaz intuitiva para control de ventas.
-
----
-
 # 🧠 Habilidades Técnicas
 
 ## 1. #### **Frontend**
@@ -107,7 +94,6 @@ Aplicación de escritorio desarrollada con Electron y Node.js que permite:
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 - ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-- ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 - ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
