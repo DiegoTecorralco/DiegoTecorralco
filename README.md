@@ -7,7 +7,7 @@ Tengo experiencia desarrollando sistemas completos desde cero, estructurando fro
 
 ---
 
-# 👨🏻‍💻 Sobre mí
+# Sobre mí 👨🏻‍💻
 
 Actualmente desarrollo aplicaciones web completas donde:
 
@@ -24,9 +24,9 @@ Actualmente desarrollo aplicaciones web completas donde:
 
 ---
 
-# 🚀 Proyectos que he desarrollado
+# Proyectos que he desarrollado
 
-## 🎓 Sistema Web de Control de Asistencia Escolar
+## Sistema Web de Control de Asistencia Escolar
 
 Aplicación Full Stack desarrollada con React + TypeScript (frontend), Node.js + Express (backend) y MongoDB (base de datos).
 
@@ -48,21 +48,7 @@ Aplicación Full Stack desarrollada con React + TypeScript (frontend), Node.js +
 
 ---
 
-## 📅 Calendario Web de Aniversario
-
-Aplicación en React con:
-
-- Organización dinámica de fotos por mes.
-- Renderizado condicional.
-- Manejo de carpetas públicas estructuradas.
-- Visualización organizada en filas.
-- Soporte para fotos y videos.
-- Navbar responsivo.
-- Optimización de componentes.
-
----
-
-# 🧠 Habilidades Técnicas
+# Habilidades Técnicas
 
 ## 1. **Frontend**
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -100,9 +86,9 @@ Aplicación en React con:
 
 # 📫 Contacto
 
-- 💼 **LinkedIn:** www.linkedin.com/in/diego-salvador-tecorralco-martinez 
-- 🐙 **GitHub:** https://github.com/DiegoTecorralco  
-- 📧 **Correo:** mcteco111@gmail.com 
+- **LinkedIn:** www.linkedin.com/in/diego-salvador-tecorralco-martinez 
+- **GitHub:** https://github.com/DiegoTecorralco  
+- **Correo:** mcteco111@gmail.com 
 
 ---
 
